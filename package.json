@@ -1,5 +1,5 @@
 {
-  "name": "pruebampn",
+  "name": "@jesuslas/pruebanpm",
   "version": "0.0.1",
   "description": "Prueba de paquete para publiar en npm",
   "main": "dist/src/platzom.js",

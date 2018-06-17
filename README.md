@@ -1,6 +1,6 @@
 # Prueba paquete MPN
 
-Prueba para publicar paquete mpn
+Prueba para publicar paquete npm
 
 
 ```
