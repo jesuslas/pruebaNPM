@@ -1,4 +1,4 @@
-# Prueba paquete MPN
+# Prueba paquete npm
 
 Prueba para publicar paquete npm
 
