@@ -4,5 +4,5 @@ Prueba para publicar paquete npm
 
 
 ```
-npm install alpinolib
+npm i @jalpino/pruebanpm
 ```
